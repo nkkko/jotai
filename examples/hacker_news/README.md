@@ -1,5 +1,7 @@
 # Hacker News [![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=flat-square&logo=codesandbox)](https://githubbox.com/pmndrs/jotai/tree/main/examples/hacker_news)
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/pmndrs/jotai)
+
 ## Description
 
 Demonstrate a news articles with jotai, hit next to see more articles.
